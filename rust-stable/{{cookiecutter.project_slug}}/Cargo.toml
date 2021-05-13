@@ -1,0 +1,5 @@
+[package]
+name = "{{ cookiecutter.project_slug }}"
+version = "0.1.0"
+authors = ["{{ cookiecutter.name }} <{{ cookiecutter.email }}>"]
+edition = "2018"
